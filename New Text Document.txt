@@ -1,0 +1,1366 @@
+[
+    {
+       
+        "name": "Is This Love",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fab67616d00001e0270d1c1cddd8608784f288259.jpeg?alt=media&token=58d4ecb3-051d-4325-8997-2eea8aad9c5a",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fisthislove.mp3?alt=media&token=eb217121-099b-4c75-882e-b4c00c9579d6",
+        "artist": [
+            "Pritam"
+        ],
+        "artistId": [
+            "653617d6916de097c4850dff"
+        ],
+        "__v": 0,
+        "language": "hindi",
+        "like": true,
+        "totallikes": 4,
+        "totalstream": 0,
+        "idx": 0,
+        "dummytitle": "Is This Love",
+        "dummyartist": "Pritam"
+    },
+    {
+       
+        "name": "dildaara",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fab67616d00001e0244aa56e23e3a89802e6c6347.jpg?alt=media&token=1da672b0-68de-47dc-a508-c579b7e7d7ad",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fdildaara.mp3?alt=media&token=408e5501-9de4-4c48-ba75-066c4e155782",
+        "artist": [
+            "Vishal"
+        ],
+        "artistId": [],
+        "__v": 0,
+        "language": "hindi",
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "idx": 1
+    },
+    {
+       
+        "name": "Mast Magan",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fab67616d00001e02c7b8d39b1e113845906984ab.jpg?alt=media&token=c8e89dc8-dc22-448e-8318-73cd47a19d66",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fmast-magan.mp3?alt=media&token=386dfc2e-59f6-4627-aa45-43831af2c6be",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "__v": 0,
+        "language": "hindi",
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "idx": 2
+    },
+    {
+        "name": "Ranjhana",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fab67616d00001e02a00249b8bf77312ec156dd4b.jpg?alt=media&token=742eadb2-a6e7-464b-a375-a191ee0e6049",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Franjhana.mp3?alt=media&token=87fffb7d-1863-45e4-8cd2-14a6a1732505",
+        "artist": [
+            "AR Rahman"
+        ],
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "__v": 0,
+        "language": "hindi",
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 3
+    },
+    {
+       
+        "name": "What do you mean",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwhatdoyoumean.jpeg?alt=media&token=2a1d2d08-0419-41eb-a97c-c79e4834264c",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20What%20Do%20You%20Mean_.mp3?alt=media&token=5bf3ccc9-2c33-418e-90c8-1e262448adae",
+        "artist": [
+            "justin bieber"
+        ],
+        "language": "english",
+        "artistId": [
+            "648ace14920fae5b080fad53"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 2,
+        "idx": 4
+    },
+    {
+       
+        "name": "one kiss",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fonekiss.jpeg?alt=media&token=3404f73e-2408-419f-a0d8-044336dc1278",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fonekiss.mp3?alt=media&token=20631d40-1ebb-4621-bdea-ef304a26714d",
+        "artist": [
+            "dua lipa"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e08"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 2,
+        "idx": 5
+    },
+    {
+       
+        "name": "levitating",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flevitating.jpeg?alt=media&token=48419cca-780f-40af-9005-2b0b157473df",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Levitating.mp3?alt=media&token=80e92dff-92b4-46eb-a826-9381fb9a1428",
+        "artist": [
+            "dua lipa"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e08"
+        ],
+        "__v": 0,
+        "like": true,
+        "totalstream": 0,
+        "totallikes": 4,
+        "idx": 6
+    },
+    {
+      
+        "name": "levitating ft(Da Baby)",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flevitating.jpeg?alt=media&token=48419cca-780f-40af-9005-2b0b157473df",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Levitating%20(feat.%20DaBaby).mp3?alt=media&token=c727ff73-eb50-44a0-b5ef-f4c4d129c426",
+        "artist": [
+            "dua lipa",
+            "Da baby"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e08"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 7
+    },
+    {
+        
+        "name": "no lie",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fnolie.jpeg?alt=media&token=45f17786-90da-410c-b145-c4d093b6dc4a",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20No%20Lie.mp3?alt=media&token=741d5c47-85c7-4316-b9da-1a0d78eb555c",
+        "artist": [
+            "dua lipa",
+            "sean paul"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e08"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 3,
+        "idx": 8
+    },
+    {
+       
+        "name": "blinding lights",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fblindinglight.jpeg?alt=media&token=ff43d791-0438-42aa-b40c-2dc4954b9d01",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fblindinglight.mp3?alt=media&token=145a6d0c-0c80-4eac-b501-56182fc905c4",
+        "artist": [
+            "The weeknd"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e06"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 4,
+        "idx": 9
+    },
+    {
+        
+        "name": "after hours",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fblindinglight.jpeg?alt=media&token=ff43d791-0438-42aa-b40c-2dc4954b9d01",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2FAfterhours.mp3?alt=media&token=c4e63c69-91e3-4fa3-8919-a861623b0144",
+        "artist": [
+            "The weeknd"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e06"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "idx": 10
+    },
+    {
+        
+        "name": "starboy",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fstarboy.jpeg?alt=media&token=857d1275-2ed9-4319-a6e9-5e219998cc74",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fstarboy.mp3?alt=media&token=f3782a58-6e13-4da7-a04d-d5223624180c",
+        "artist": [
+            "The weeknd"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e06"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 11
+    },
+    {
+        
+        "name": "light switch",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fcharlieputh.jpeg?alt=media&token=0f0cc488-9075-491b-9f96-c44fbaf9b520",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Light%20Switch.mp3?alt=media&token=780d0e1a-0777-4680-b857-154270da9b98",
+        "artist": [
+            "charlie puth"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e07"
+        ],
+        "__v": 0,
+        "like": true,
+        "totalstream": 0,
+        "totallikes": 4,
+        "idx": 12,
+        "dummytitle": "light switch",
+        "dummyartist": "charlie puth"
+    },
+    {
+      
+        "name": "we dont talk anymore",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwedonttalkanymore.jpeg?alt=media&token=6ba7aaa2-5194-432c-98e5-6bbe7f86f127",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20We%20Don't%20Talk%20Anymore%20(feat.%20Selena%20Gomez).mp3?alt=media&token=8ae230fe-e600-4f53-a136-6211f8dd89e0",
+        "artist": [
+            "charlie puth",
+            "selena gomez"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e07",
+            "653617d6916de097c4850e09"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 3,
+        "idx": 13
+    },
+    {
+       
+        "name": "attention",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fattention.jpeg?alt=media&token=d762c3e9-7398-4591-bf61-a7ce6df5bc12",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Attention.mp3?alt=media&token=0abf9a5d-578c-49b5-bd9e-8421b436f950",
+        "artist": [
+            "charlie puth"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e07"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 14
+    },
+    {
+       
+        "name": "breakup song",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2FADHM.jpeg?alt=media&token=d2788646-2523-4c15-885b-c53d0ee2a359",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fbreakupsong.mp3?alt=media&token=67fb188c-cd7f-45b5-800b-ef93b4e3ecf9",
+        "artist": [
+            "Pritam"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850dff"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 3,
+        "idx": 15,
+        "dummytitle": "breakup song",
+        "dummyartist": "Pritam"
+    },
+    {
+       
+        "name": "bulleya",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2FADHM.jpeg?alt=media&token=d2788646-2523-4c15-885b-c53d0ee2a359",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Bulleya%20(From%20_Ae%20Dil%20Hai%20Mushkil_).mp3?alt=media&token=3a07d18f-3b92-446d-9922-6d217eb36a4e",
+        "artist": [
+            "Pritam"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850dff",
+            "648c3d3b979193c260896dac"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "idx": 16,
+        "dummytitle": "bulleya",
+        "dummyartist": "Pritam"
+    },
+    {
+       
+        "name": "channa mereya",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2FADHM.jpeg?alt=media&token=d2788646-2523-4c15-885b-c53d0ee2a359",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Channa%20Mereya%20(From%20_Ae%20Dil%20Hai%20Mushkil_).mp3?alt=media&token=40140c62-fe66-45cc-b17f-958d3c7ccaaa",
+        "artist": [
+            "Pritam"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850dff"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 17
+    },
+    {
+       
+        "name": "sorry",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwhatdoyoumean.jpeg?alt=media&token=2a1d2d08-0419-41eb-a97c-c79e4834264c",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Sorry.mp3?alt=media&token=003c68ae-a6ec-4f25-9e57-7167c2ac13f3",
+        "artist": [
+            "justin bieber"
+        ],
+        "language": "english",
+        "artistId": [
+            "648ace14920fae5b080fad53"
+        ],
+        "__v": 0,
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "idx": 18,
+        "dummytitle": "sorry",
+        "dummyartist": "justin bieber"
+    },
+    {
+       
+        "name": "stay",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fstay.jpeg?alt=media&token=0156f082-1586-491c-9cbd-2b92b18dea3e",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20STAY%20(with%20Justin%20Bieber).mp3?alt=media&token=41f17e21-8ba1-4d0a-ab12-69f4dbe09d62",
+        "artist": [
+            "justin bieber"
+        ],
+        "language": "english",
+        "artistId": [
+            "648ace14920fae5b080fad53"
+        ],
+        "like": false,
+        "__v": 0,
+        "totalstream": 0,
+        "totallikes": 1,
+        "idx": 19
+    },
+    {
+        
+        "name": "night changes",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fnightchanges.jpg?alt=media&token=ac84bbfa-7972-4af7-bbff-0c0b1c771e79",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Night%20Changes.mp3?alt=media&token=cc3116c9-e2c5-433c-b728-b695c94322bd",
+        "artist": [
+            "one direction"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e0a"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 20
+    },
+    {
+        
+        "name": "what makes you beautiful",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwmyb.jpg?alt=media&token=25599721-1b57-4121-bb50-d66557b56e72",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20What%20Makes%20You%20Beautiful.mp3?alt=media&token=95ef67a6-86ee-4090-a101-a6f842742361",
+        "artist": [
+            "one direction"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e0a"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 21
+    },
+    {
+       
+        "name": "pink venom",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fpinkvenom.jpg?alt=media&token=d39ba2e4-57e0-4db2-927f-87ddb50a56c2",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Pink%20Venom.mp3?alt=media&token=dcbf23db-c5ff-47a1-a01f-8b1eecf2b4f9",
+        "artist": [
+            "blackpink"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e02"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 2,
+        "totalstream": 0,
+        "idx": 22
+    },
+    {
+       
+        "name": "ddu du ddu du",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fdududu.jpg?alt=media&token=67bf0b96-32bf-4a8d-bef1-37857c6e34f5",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20DDU-DU%20DDU-DU.mp3?alt=media&token=8dcac1f6-dba9-439a-82e9-c204fdb5e9b9",
+        "artist": [
+            "blackpink"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e02"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 23
+    },
+    {
+      
+        "name": "calm down",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fcalmdown.jpg?alt=media&token=44a0d93f-7ce8-452f-9ee2-298fca12bbf9",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Calm%20Down%20(with%20Selena%20Gomez).mp3?alt=media&token=9cb6a5d2-a7ae-4077-a2d9-bc7d63985cf5",
+        "artist": [
+            "selena gomez"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e09"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 24
+    },
+    {
+       
+        "name": "typa girl",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Ftypa%20girl.jpg?alt=media&token=0ee6dc8e-3362-4ab7-90e2-cd8a731f2e7c",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Typa%20Girl.mp3?alt=media&token=3c2d59e4-3b07-4baf-82da-069d68da48ef",
+        "artist": [
+            "blackpink"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e02"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 25
+    },
+    {
+      
+        "name": "flower",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fflower.jpg?alt=media&token=a96872d7-f83c-4811-adae-2bd4e2697d85",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20FLOWER.mp3?alt=media&token=3240be3f-16fe-4aef-bc2f-e0e8bdf54a11",
+        "artist": [
+            "jisoo"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e0b"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 26
+    },
+    {
+       
+        "name": "money",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fmoney.jpg?alt=media&token=b60a68c3-1a50-4df7-a063-470fd5b35487",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20MONEY.mp3?alt=media&token=c5cd89f7-6921-4e77-8950-1a514e9cac07",
+        "artist": [
+            "lisa"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e0c"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 3,
+        "totalstream": 0,
+        "idx": 27
+    },
+    {
+       
+        "name": "blank space",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fblankspace.jpg?alt=media&token=9163d6bc-5d13-41a5-bb7c-6dee708e8e20",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Blank%20Space.mp3?alt=media&token=66bf9522-78ea-490a-a6df-120ee152bb88",
+        "artist": [
+            "taylor swift"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e05"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 28
+    },
+    {
+       
+        "name": "anti-hero",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fmidnight.jpg?alt=media&token=02ed0050-59d9-4986-9dd0-56f97347a430",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Anti-Hero.mp3?alt=media&token=b3448357-713a-423b-bf18-251ed99c3875",
+        "artist": [
+            "taylor swift"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e05"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 29,
+        "dummytitle": "anti-hero",
+        "dummyartist": "taylor swift"
+    },
+    {
+        
+        "name": "love story",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flovestory.jpg?alt=media&token=fe24f26b-ac1a-4371-9c0a-d7aae22faeb1",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Love%20Story.mp3?alt=media&token=bf561c50-10a8-476f-83b7-08e86bef1681",
+        "artist": [
+            "taylor swift"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e05"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 30
+    },
+    {
+       
+        "name": "shut down",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Ftypa%20girl.jpg?alt=media&token=0ee6dc8e-3362-4ab7-90e2-cd8a731f2e7c",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Shut%20Down.mp3?alt=media&token=fcc47392-f9a4-410b-b94d-24300e69774e",
+        "artist": [
+            "blackpink"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e02"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 31
+    },
+    {
+        
+        "name": "how you like that",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fhowyoulikethat.jpg?alt=media&token=020aa10e-fc36-43da-a004-72af87c5b451",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20How%20You%20Like%20That.mp3?alt=media&token=c1f1341f-e433-4513-a0dc-d2657debfd1e",
+        "artist": [
+            "blackpink"
+        ],
+        "language": "kpop",
+        "artistId": [
+            "653617d6916de097c4850e02"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 1,
+        "totalstream": 0,
+        "idx": 32
+    },
+    {
+       
+        "name": "set fire to the rain",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fsetfiretotherain.jpg?alt=media&token=d9c8dc53-7887-4aec-8d6e-78078ac53987",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Set%20Fire%20to%20the%20Rain.mp3?alt=media&token=74acb147-1e04-4f41-b729-8a8720539ad4",
+        "artist": [
+            "adele"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e0d"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 0,
+        "totalstream": 0,
+        "idx": 33,
+        "dummytitle": "set fire to ...",
+        "dummyartist": "adele"
+    },
+    {
+      
+        "name": "love me like you do",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flovemelikeyoudo.jpg?alt=media&token=4fc8b11c-fbd1-4a1a-a66f-91625007e02d",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Love%20Me%20Like%20You%20Do%20-%20From%20_Fifty%20Shades%20Of%20Grey_.mp3?alt=media&token=18524a93-0550-4729-88d0-9919da2f8983",
+        "artist": [
+            "Ellie Goulding"
+        ],
+        "language": "english",
+        "artistId": [
+            "653617d6916de097c4850e10"
+        ],
+        "like": false,
+        "__v": 0,
+        "totallikes": 2,
+        "totalstream": 0,
+        "idx": 34
+    },
+    {
+        
+        "name": "vaathi coming",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fmaster.jpg?alt=media&token=dcf93fa6-1860-4a4b-b790-9a67a7384495",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Vaathi%20Coming.mp3?alt=media&token=90aee494-c292-4d1f-9b42-835fbcd35336",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 35
+    },
+    {
+       
+        "name": "kutti story",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fmaster.jpg?alt=media&token=dcf93fa6-1860-4a4b-b790-9a67a7384495",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Kutti%20Story.mp3?alt=media&token=56e20c2b-9efb-4f6e-9365-e5a60bf05737",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 36
+    },
+    {
+        "name": "arabic kuthu",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fbeast.jpg?alt=media&token=9018235b-9c0d-4df8-af28-d2e7cc63c0ba",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Arabic%20Kuthu%20-%20Halamithi%20Habibo.mp3?alt=media&token=5332157b-421f-48d7-b2ae-a03f4f757dae",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 2,
+        "__v": 0,
+        "idx": 37
+    },
+    {
+        
+        "name": "beast mode",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fbeastmode.jpg?alt=media&token=40569db6-92a2-4fb5-b0db-f7efbfc6409f",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Beast%20Mode.mp3?alt=media&token=d4f032eb-4643-4957-97d4-b78f738fa47f",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": true,
+        "totalstream": 0,
+        "totallikes": 2,
+        "__v": 0,
+        "idx": 38
+    },
+    {
+        
+        "name": "jolly o gymkhana",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/image%2Ftamil.jpg?alt=media&token=5222dc5f-8b63-4c8b-bd66-8d8ab31e021b",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Jolly%20O%20Gymkhana.mp3?alt=media&token=db3e2a4f-c26f-4604-95d7-888383357f9c",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 39
+    },
+    {
+       
+        "name": "anbil avan",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvtv.jpg?alt=media&token=079c3730-af5d-4854-b080-0b619230823e",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Anbil%20Avan.mp3?alt=media&token=5082b110-19ae-42bd-aebe-061aeab31bf7",
+        "artist": [
+            "AR Rahman"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 40
+    },
+    {
+       
+        "name": "hosanna",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvtv.jpg?alt=media&token=079c3730-af5d-4854-b080-0b619230823e",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Hosanna.mp3?alt=media&token=dd345a51-7f58-4593-b9ef-7e9409f1eeee",
+        "artist": [
+            "AR Rahman"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 41
+    },
+    {
+      
+        "name": "aaromale",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvtv.jpg?alt=media&token=079c3730-af5d-4854-b080-0b619230823e",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Aaromale.mp3?alt=media&token=ecae8bd4-2f6e-4edf-9943-a6dbec693af8",
+        "artist": [
+            "AR Rahman"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 42
+    },
+    {
+       
+        "name": "omana penne",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvtv.jpg?alt=media&token=079c3730-af5d-4854-b080-0b619230823e",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Omana%20Penne.mp3?alt=media&token=e5f8969b-3ddd-4f84-87ca-711678bef0e4",
+        "artist": [
+            "AR Rahman"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 43
+    },
+    {
+        
+        "name": "adiyae kolluthey",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvaranmayiram.jpg?alt=media&token=a22251f1-495b-4544-b900-45642f968cec",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Adiyae%20Kolluthey.mp3?alt=media&token=4dba4c7a-f3af-4a15-ab4f-8f6f437d0eac",
+        "artist": [
+            "harris jayaraj"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e11"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 44
+    },
+    {
+       
+        "name": "nenjukkul peidhidum",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvaranmayiram.jpg?alt=media&token=a22251f1-495b-4544-b900-45642f968cec",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Nenjukkul%20Peidhidum.mp3?alt=media&token=09e5e038-0edf-498b-a92b-dc9cc4bd818c",
+        "artist": [
+            "harris jayaraj"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e11"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 45
+    },
+    {
+        
+        "name": "yethi yethi",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fvaranmayiram.jpg?alt=media&token=a22251f1-495b-4544-b900-45642f968cec",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Yethi%20Yethi.mp3?alt=media&token=44182c0f-ccf3-4a6b-b518-d112756c94a4",
+        "artist": [
+            "harris jayaraj"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e11"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 46
+    },
+    {
+       
+        "name": "ranjha",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fshershaah.jpeg?alt=media&token=939fe1b3-d903-4b39-bc05-d2cedaee52c8",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Franjha.mp3?alt=media&token=06f33667-a8a5-4943-87e1-3c3e880bc15e",
+        "artist": [
+            "Jasleen Royal",
+            "b praak"
+        ],
+        "language": "hindi",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 47
+    },
+    {
+       
+        "name": "Chahun Main Ya Naa",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fashique.jpeg?alt=media&token=f350c004-e1b4-4264-873d-cd7776fcbe79",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Chahun%20Main%20Ya%20Naa.mp3?alt=media&token=8ea7a3c0-30bb-4ad2-9bc2-0878022be9f7",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 48
+    },
+    {
+        
+        "name": "I Wanna be yours",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwaannabe%20yours.jpeg?alt=media&token=a4c0e52f-05d6-43a2-b04f-ca759e11e9c4",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20I%20Wanna%20Be%20Yours.mp3?alt=media&token=f0955d53-ae67-4774-9352-5c38458f3efb",
+        "artist": [
+            "Arctic monkeys"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 49
+    },
+    {
+       
+        "name": "kesariya",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fkesariya.jpeg?alt=media&token=d86c3a3d-c6d1-4ee1-8e5c-955b7aafb0e1",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Kesariya.mp3?alt=media&token=abe3a1b3-a518-40b7-9790-e124f77c9544",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 50
+    },
+    {
+       
+        "name": "deva deva",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fdeva%20deva.jpeg?alt=media&token=343a1ad5-dd1c-46ad-bd24-7a56c74034a4",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Deva%20Deva%20(From%20_Brahmastra_).mp3?alt=media&token=e0f65713-addb-4fe2-9b13-04097bf2f52f",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 51
+    },
+    {
+       
+        "name": "let me love you",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fletmeloveyou.jpeg?alt=media&token=df961931-64c2-4296-bb3f-350db9960f50",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Let%20Me%20Love%20You.mp3?alt=media&token=464765dc-e918-49be-924d-7a6ee937ddaa",
+        "artist": [
+            "justin bieber"
+        ],
+        "language": "english",
+        "artistId": [
+            "648ace14920fae5b080fad53"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 52
+    },
+    {
+        
+        "name": "po nee po",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2F3.jpg?alt=media&token=fbe4571c-bc01-4f3e-98eb-165bf2be5467",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Po%20Nee%20Po%20-%20The%20Pain%20of%20Love.mp3?alt=media&token=682d7da5-5750-474c-b33b-68b38362cc1a",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 53
+    },
+    {
+       
+        "name": "Kannazhaga",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2F3.jpg?alt=media&token=fbe4571c-bc01-4f3e-98eb-165bf2be5467",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Kannazhaga%20-%20The%20Kiss%20of%20Love.mp3?alt=media&token=006ca4a2-8de6-4052-8816-1b31de9c1434",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 54
+    },
+    {
+        
+        "name": "Idhazhin Oram",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2F3.jpg?alt=media&token=fbe4571c-bc01-4f3e-98eb-165bf2be5467",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Idhazhin%20Oram%20-%20The%20Innocence%20of%20Love.mp3?alt=media&token=7b97da6d-b5a3-4ecd-b2a5-ecf40c2e75be",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 55
+    },
+    {
+       
+        "name": "Why This Kolaveri Di",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2F3.jpg?alt=media&token=fbe4571c-bc01-4f3e-98eb-165bf2be5467",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Why%20This%20Kolaveri%20Di_%20-%20The%20Soup%20of%20Love.mp3?alt=media&token=fad5f505-6606-4ae4-a834-6c4f8c57974b",
+        "artist": [
+            "anirudh"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850e03"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 56
+    },
+    {
+        
+        "name": "Yaar Indha Saalai Oram",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fthalaiva.jpg?alt=media&token=1d8b8695-31b7-4c59-aa0f-e5e3a77f541f",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Yaar%20Indha%20Saalai%20Oram.mp3?alt=media&token=d739ea0a-4688-47e9-89c5-e0da9ab44f0d",
+        "artist": [
+            "GV prakash"
+        ],
+        "language": "tamil",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 57
+    },
+    {
+       
+        "name": "raat bhar",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fheropanti.jpeg?alt=media&token=1c0aa21c-25a6-4897-bf68-1c27f674d594",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Raat%20Bhar.mp3?alt=media&token=b88b63c4-d28d-4c6b-9bb6-19c190a7d72b",
+        "artist": [
+            "Arijit Singh",
+            "shreya ghoshal"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00",
+            "653617d6916de097c4850e04"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 58
+    },
+    {
+        
+        "name": "Sunn Raha Hai",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fashique.jpeg?alt=media&token=f350c004-e1b4-4264-873d-cd7776fcbe79",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Sunn%20Raha%20Hai.mp3?alt=media&token=849d86cb-6ad1-4fe5-9989-a7ec5ed8f39a",
+        "artist": [
+            "Arijit Singh",
+            "ankit tiwari"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 59
+    },
+    {
+       
+        "name": "tum hi ho",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fashique.jpeg?alt=media&token=f350c004-e1b4-4264-873d-cd7776fcbe79",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Tum%20Hi%20Ho.mp3?alt=media&token=2cd16fb2-482a-44c2-88fd-c8bfa7ace4f2",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 60
+    },
+    {
+       
+        "name": "Whenever Wherever",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fwhenever.jpeg?alt=media&token=c4ec9b1f-4bb5-4c2a-86f3-76153848a3e8",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Whenever%2C%20Wherever.mp3?alt=media&token=487500e3-1598-40e3-a01e-aa108b066063",
+        "artist": [
+            "shakira"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 61
+    },
+    {
+       
+        "name": "ik vaari aa",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fraabta.jpeg?alt=media&token=3c011588-5bb4-4921-8b67-072bf9fca90d",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Ik%20Vaari%20Aa%20(From%20_Raabta_).mp3?alt=media&token=113b4e74-3219-4dbe-98f6-9ddf9adb7c78",
+        "artist": [
+            "Pritam",
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850dff",
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 62
+    },
+    {
+        
+        "name": "Kaara Aattakkaara",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fokkanmani.jpeg?alt=media&token=89dede5a-9724-4f31-bdf9-7c8c34989acd",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Kaara%20Aattakkaara.mp3?alt=media&token=4a24d8bf-c3a6-4c96-8986-c47a70af54e3",
+        "artist": [
+            "AR Rahman"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 63
+    },
+    {
+        
+        "name": "Mental Manadhil",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fokkanmani.jpeg?alt=media&token=89dede5a-9724-4f31-bdf9-7c8c34989acd",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Mental%20Manadhil.mp3?alt=media&token=94c3107d-ad2f-4a06-ac8d-bdc4cb42d80f",
+        "artist": [
+            "AR Rahman",
+            "jonita gandhi"
+        ],
+        "language": "tamil",
+        "artistId": [
+            "653617d6916de097c4850dfe"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 64
+    },
+    {
+       
+        "name": "closer",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fcloser.jpeg?alt=media&token=4ec90726-fc3a-441d-b96e-1fd2d3c29f44",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Closer.mp3?alt=media&token=99fe9056-11a0-4532-a664-5aff30a752b7",
+        "artist": [
+            "the chainsmokers"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 65
+    },
+    {
+       
+        "name": "stereo heart",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fstereoheart.jpeg?alt=media&token=b47b6965-d87b-4ff8-95e5-ca828a7f900f",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Stereo%20Hearts%20(feat.%20Adam%20Levine).mp3?alt=media&token=bda9f9fd-c6f0-4853-9c36-1ee15ae82e24",
+        "artist": [
+            "gym class heroes"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 66
+    },
+    {
+       
+        "name": "as it was",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fasitwas.jpeg?alt=media&token=9ddd69eb-8253-4cac-bcda-9956e3e7eea6",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20As%20It%20Was.mp3?alt=media&token=97261de5-b4d3-45f4-b176-59b31236808a",
+        "artist": [
+            "harry styles"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 67
+    },
+    {
+        
+        "name": "honey im good",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fhoney%20im%20good.jpeg?alt=media&token=4c9a2657-0603-4de6-a0a0-b89002adb36f",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Honey%2C%20I'm%20Good..mp3?alt=media&token=2d8be3f3-056d-4472-a250-0b00e344d422",
+        "artist": [
+            "andy grammer"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 68
+    },
+    {
+        
+        "name": "im good(speed up)",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fim%20good.jpeg?alt=media&token=4d076ced-889f-44ef-a512-839d0ef6db40",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20I'm%20Good%20(Sped%20Up).mp3?alt=media&token=8ba45756-cc09-4ee1-b153-ed7ac346ce98",
+        "artist": [
+            "YungMoneyChasers"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 69
+    },
+    {
+      
+        "name": "give it to me",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/giveittome.jpeg?alt=media&token=416f1a2a-d66b-45b9-a69f-ed03f23d7a8c",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Give%20It%20To%20Me.mp3?alt=media&token=40cc5f31-10f6-4368-b726-5c49aea75af5",
+        "artist": [
+            "Timbaland"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 70
+    },
+    {
+       
+        "name": "summertime sadness",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fsummertimesadness.jpeg?alt=media&token=56abd2ab-a4ec-4b44-aa43-3166a7d182ca",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Summertime%20Sadness.mp3?alt=media&token=503f6b0b-7f84-45fa-bfae-0e143661195f",
+        "artist": [
+            "lana del rey"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 71
+    },
+    {
+       
+        "name": "apna bana le",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fapna%20ban%20le.jpeg?alt=media&token=6f56de4d-a0b4-4bbb-a01f-9218ae087a38",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2FApna-Bana-Le(PagalWorld).mp3?alt=media&token=2aba43eb-218f-43c8-b9ff-8a986769f866",
+        "artist": [
+            "Arijit Singh"
+        ],
+        "language": "hindi",
+        "artistId": [
+            "653617d6916de097c4850e00"
+        ],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 72
+    },
+    {
+       
+        "name": "Let her go(speed)-Remix",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flet%20her%20goooooo.jpeg?alt=media&token=6b6f40e3-5c2f-4309-9b5f-4f6695f290f9",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Let%20Her%20Go%20(Sped%20Up)%20-%20Remix.mp3?alt=media&token=f5841695-c7f4-4f05-9096-936c58403fd4",
+        "artist": [
+            "Remix"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 1,
+        "__v": 0,
+        "idx": 73,
+        "dummytitle": "Let her go(s...",
+        "dummyartist": "Remix"
+    },
+    {
+       
+        "name": "After Hours-Remix",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Fhome.jpg?alt=media&token=688b1d99-42ea-4b65-96ec-8cde87bfeaa5",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2FThe%20Weeknd%20-%20After%20Hours%20(iMAX%20Remix)%20(Official%20Video%20Music%20Remix).mp3?alt=media&token=3f9154f3-4348-4568-aec7-2847a5f8f664",
+        "artist": [
+            "Remix"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 74
+    },
+    {
+       
+        "name": "Let her go",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/musiccoverpic%2Flet%20her%20go.jpeg?alt=media&token=d7beb2b4-bfb1-4393-9e63-9a26a8997d9a",
+        "songURL": "https://firebasestorage.googleapis.com/v0/b/metatunes-2195e.appspot.com/o/music%2Fspotifydown.com%20-%20Let%20Her%20Go.mp3?alt=media&token=169022ca-c9c4-48eb-a49b-3c699ecfd345",
+        "artist": [
+            "Passenger"
+        ],
+        "language": "english",
+        "artistId": [],
+        "like": false,
+        "totalstream": 0,
+        "totallikes": 0,
+        "__v": 0,
+        "idx": 75
+    }
+]
