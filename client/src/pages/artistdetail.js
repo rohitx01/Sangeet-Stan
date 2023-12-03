@@ -31,7 +31,7 @@ const Artistdetail = () => {
   const [artist, setartist] = useState({});
   const [show, setshow] = useState(false);
   const URL = "http://localhost:8000";
-  //const URL= "https://meta-tunes.onrender.com";
+  //const URL = "https://meta-tunes.onrender.com";
   const func = async () => {
     try {
       const obj = {
@@ -95,6 +95,28 @@ const Artistdetail = () => {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [artist]);
+  // useEffect(() => {
+  //   if (Object.keys(artist).length !== 0) {
+  //     const updatedSongs = artist.songs.map((song) => {
+  //       const updatedSong = { ...song }; // Create a shallow copy of the song object
+  //       const matchingStoredSong = song.find(
+  //         (storedSong) => storedSong.name === song.name
+  //       );
+
+  //       if (matchingStoredSong) {
+  //         updatedSong.idx = matchingStoredSong.idx;
+  //       }
+
+  //       return updatedSong;
+  //     });
+
+  //     const iddx = updatedSongs.map((song) => song.like);
+  //     console.log(updatedSongs);
+  //     setarray(iddx);
+  //     setshow(true);
+  //   }
+  //   // eslint-disable-next-line react-hooks/exhaustive-deps
+  // }, [artist]);
 
   const playsong = (item) => {
     let j = 0;
@@ -131,7 +153,7 @@ const Artistdetail = () => {
               <p>{artist.artist.note}</p>
             </div>
           </div>
-          <div className="lineyy"></div>
+          {/* <div className="lineyy"></div>
           <div className="down">
             <div className="up">
               <h1>Songs</h1>
@@ -247,9 +269,9 @@ const Artistdetail = () => {
                 </div>
               ))}
             </div>
-          </div>
-          <div className="lineyyyyyy"></div>
-          <div className="lineyyyyyy"></div>
+          </div> */}
+          {/* <div className="lineyyyyyy"></div>
+          <div className="lineyyyyyy"></div> */}
         </div>
       )}
     </div>

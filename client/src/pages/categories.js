@@ -23,7 +23,7 @@ const Categories = () => {
   }, []);
   const URL = "http://localhost:8000";
 
-  //const URL ="https://meta-tunes.onrender.com";
+  //const URL = "https://meta-tunes.onrender.com";
 
   const funct = async () => {
     try {

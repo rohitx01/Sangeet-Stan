@@ -23,6 +23,7 @@ const Nav = () => {
   const [artist, setartist] = useState(false);
   const [favourites, setfavourites] = useState(false);
   const [playlist, setplaylist] = useState(false);
+  const [commonplaylist, setcommonplaylist] = useState(false);
   const [login, setlogin] = useState(false);
   const sidebar = JSON.parse(localStorage.getItem("sidebar"));
   const side = sidebar.index;
@@ -77,6 +78,8 @@ const Nav = () => {
       setfavourites(true);
     } else if (side === 3) {
       setplaylist(true);
+    } else if (side === 4) {
+      setcommonplaylist(true);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -162,6 +165,7 @@ const Nav = () => {
             setartist(false);
             setfavourites(false);
             setplaylist(false);
+            setcommonplaylist(false);
             sidebar.index = 0;
             localStorage.setItem("sidebar", JSON.stringify(sidebar));
             navigate("/");
@@ -198,6 +202,7 @@ const Nav = () => {
             setartist(false);
             setfavourites(true);
             setplaylist(false);
+            setcommonplaylist(false);
             sidebar.index = 2;
             localStorage.setItem("sidebar", JSON.stringify(sidebar));
             navigate("/favourites");
@@ -216,6 +221,7 @@ const Nav = () => {
             setartist(false);
             setfavourites(false);
             setplaylist(true);
+            setcommonplaylist(false);
             sidebar.index = 3;
             localStorage.setItem("sidebar", JSON.stringify(sidebar));
             navigate("/playlist");
@@ -224,6 +230,25 @@ const Nav = () => {
           <div className={playlist ? "active" : "notactive"}>
             <HeadsetIcon className="icons" />
             <h2>Playlists</h2>
+          </div>
+        </div>
+        <div
+          className="item"
+          onClick={(e) => {
+            e.preventDefault();
+            sethome(false);
+            setartist(false);
+            setfavourites(false);
+            setplaylist(false);
+            setcommonplaylist(true);
+            sidebar.index = 4;
+            localStorage.setItem("sidebar", JSON.stringify(sidebar));
+            navigate("/commonplaylist");
+          }}
+        >
+          <div className={commonplaylist ? "active" : "notactive"}>
+            <HeadsetIcon className="icons" />
+            <h2>Common Playlists</h2>
           </div>
         </div>
       </div>

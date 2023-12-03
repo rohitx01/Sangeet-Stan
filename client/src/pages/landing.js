@@ -79,8 +79,8 @@ const Landing = () => {
   const [artist, setartist] = useState([]);
   const [songs, setsong] = useState([]);
   const [playlist, setplaylist] = useState([]);
-  //const URL = "https://meta-tunes.onrender.com";
-  const URL = "http://localhost:8000";
+  const URL = "https://meta-tunes.onrender.com";
+  //const URL = "http://localhost:8000";
 
   const func1 = async () => {
     try {
@@ -156,6 +156,7 @@ const Landing = () => {
             className="inputs"
             onChange={search}
           />
+
           {refffu?.current === document.activeElement && (
             <CloseIcon
               className="inside"

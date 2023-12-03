@@ -144,7 +144,7 @@ const Viewplaylist = () => {
                     onClick={(e) => {
                       e.preventDefault();
                       if (playlist.songs.length !== 0) {
-                        playsong(playlist.osngs[0]);
+                        playsong(playlist.songs[0]);
                       }
                     }}
                   >
